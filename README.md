@@ -1,9 +1,13 @@
 ## Hello I'm huahuo
 
-- Learning Java Kotlin C
-- Like Coffee
+---
 
-- 首先，咖啡！
+#### Learning C++ Java Kotlin
+#### Like Coffee
+
+---
+
+ 首先，咖啡！
 
 <!--
 **huahuolove/huahuolove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
